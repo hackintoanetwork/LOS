@@ -1,2 +1,1 @@
-# LOS
-Lord of SQL Injection WriteUps
+# Lord of SQL Injection WriteUps
