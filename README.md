@@ -23,7 +23,8 @@
 <a href="https://github.com/hackintoanetwork/LOS/blob/main/hell_fire.py">22. hell_fire</a><br>
 <a href="https://github.com/hackintoanetwork/LOS/blob/main/evil_wizard.py">23. evil_wizard</a><br>
 <a href="https://github.com/hackintoanetwork/LOS/blob/main/green_dragon.py">24. green_dragon</a><br>
-<a href="https://github.com/hackintoanetwork/LOS/blob/main/red_dragon.py">25. red_dragon</a><br>
+<a href="https://github.com/hackintoanetwork/LOS/blob/main/red_dragon.py">25. red_dragon</a>
+<a href="https://github.com/hackintoanetwork/LOS/blob/main/red_dragon2.py">, red_dragon - binary tree algorithm</a><br>
 <a href="https://github.com/hackintoanetwork/LOS/blob/main/blue_dragon.py">26. blue_dragon</a><br>
 <a href="https://github.com/hackintoanetwork/LOS/blob/main/frankenstein.py">28. frankenstein</a><br>
 <a href="https://github.com/hackintoanetwork/LOS/blob/main/phantom.py">29. phantom</a><br>
