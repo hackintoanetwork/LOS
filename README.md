@@ -37,3 +37,4 @@
 <a href="https://github.com/hackintoanetwork/LOS/blob/main/chupacabra.py">37. chupacabra</a><br>
 <a href="https://github.com/hackintoanetwork/LOS/blob/main/manticore.py">38. manticore</a><br>
 <a href="https://github.com/hackintoanetwork/LOS/blob/main/banshee.py">39. banshee</a><br>
+<a href="https://github.com/hackintoanetwork/LOS/blob/main/poltergeist.py">40. poltergeist</a><br>
