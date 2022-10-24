@@ -1,4 +1,4 @@
-# Lord of SQL Injection WriteUps
+# Lord of SQL Injection Writeups
 ![header](https://capsule-render.vercel.app/api?type=soft&color=black&height=200&section=header&text=Lord%20of%20SQL%20Injection&fontColor=90EE90&fontSize=70&animation=fadeIn)<p align="center"><a href="https://los.rubiya.kr/">
 <p align="left">
 <a href="https://github.com/hackintoanetwork/LOS/blob/main/gremlin.py">1. gremlin</a><br>
