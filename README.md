@@ -1,5 +1,5 @@
 # Lord of SQL Injection WriteUps
-![header](https://capsule-render.vercel.app/api?type=soft&color=black&height=200&section=header&text=Lord%20of%20SQL%20Injection&fontColor=green&fontSize=70&animation=fadeIn)<p align="center"><a href="https://los.rubiya.kr/">
+![header](https://capsule-render.vercel.app/api?type=soft&color=black&height=200&section=header&text=Lord%20of%20SQL%20Injection&fontColor=90EE90&fontSize=70&animation=fadeIn)<p align="center"><a href="https://los.rubiya.kr/">
 <a href="https://github.com/hackintoanetwork/LOS/blob/main/gremlin.py">1. gremlin</a><br>
 <a href="https://github.com/hackintoanetwork/LOS/blob/main/cobalt.py">2. cobalt</a><br>
 <a href="https://github.com/hackintoanetwork/LOS/blob/main/orc.py">3. orc</a><br>
